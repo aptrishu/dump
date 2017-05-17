@@ -1,0 +1,3 @@
+[console_scripts]
+crawl_nexis = nexis_db.cmd:main
+

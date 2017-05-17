@@ -1,0 +1,15 @@
+setup.py
+NexisCrawler.egg-info/PKG-INFO
+NexisCrawler.egg-info/SOURCES.txt
+NexisCrawler.egg-info/dependency_links.txt
+NexisCrawler.egg-info/entry_points.txt
+NexisCrawler.egg-info/requires.txt
+NexisCrawler.egg-info/top_level.txt
+nexis_db/Article.py
+nexis_db/DirectDownloadProfile.py
+nexis_db/JSONEncoder.py
+nexis_db/ParallelNexis.py
+nexis_db/PrimitiveLogPrinter.py
+nexis_db/__init__.py
+nexis_db/cmd.py
+nexis_db/nexis.py
